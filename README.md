@@ -13,7 +13,7 @@ const carlosherrera = {
     co_organizer: ["Geovoluntarios"]
   }],
   links: {
-    twitter: "https://twitter.com/carlosazaustre",
+    twitter: "https://twitter.com/MundoGister",
     linkedin: "https://www.linkedin.com/in/carlos-herrera-exposito",
   }
 };
