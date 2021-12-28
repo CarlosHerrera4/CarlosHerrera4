@@ -1,6 +1,5 @@
 ## Hi, I'm Carlos 👋🏽
 
-## About me...
 ```js
 const carlosherrera = {
   code: ["JavaScript", "HTML", "CSS", "Python"],
@@ -11,11 +10,11 @@ const carlosherrera = {
     company: "Esri Spain",
   },
   community: [{
-    co_organizer: ["Geovoluntarios"],
-  },
+    co_organizer: ["Geovoluntarios"]
+  }],
   links: {
     twitter: "https://twitter.com/carlosazaustre",
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/carlos-herrera-exposito",
   }
 };
 ```
